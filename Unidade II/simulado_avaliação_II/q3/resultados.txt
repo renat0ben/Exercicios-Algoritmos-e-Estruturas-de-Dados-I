@@ -1,0 +1,20 @@
+ 
+Caroline: 9.5 
+Olivia: 9.5
+Hannah: 9.1 
+Eve: 9.1 
+Sam: 8.9 
+Leo: 8.9 
+Quinn: 8.5 
+Nathan: 8.4 
+Grace: 8.3Alice: 8.2
+Tina: 8.2 
+Mia: 8.0
+Jack: 7.7 
+Bob: 7.3 
+David: 7.2
+Paul: 7.2 
+Rita: 7.1
+Isaac: 7.0 
+Kathy: 6.8 
+Frank: 6.2
