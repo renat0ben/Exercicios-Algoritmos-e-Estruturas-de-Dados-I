@@ -5,4 +5,4 @@ Aluno: Renato Bento Dantas
 Esse repositório está organizado da seguinte forma:
 
 As listas de exercicios estão separadas entre unidades da disciplina, em cada unidade consta suas respectivas listas situadas em pastas, cada pasta
-contem as questões feitas e também organizadas em pastas.
+contem as questões feitas e também organizadas.
